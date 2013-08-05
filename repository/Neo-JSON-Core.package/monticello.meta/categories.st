@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'Neo-JSON-Core'!
+SystemOrganization addCategory: 'Neo-JSON-Core'!

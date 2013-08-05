@@ -7,4 +7,4 @@ mapProperty: propertyName getter: readBlock setter: writeBlock
 		getter: readBlock;
 		setter: writeBlock.
 	properties at: propertyName put: propertyMapping.
-	^ propertyMapping 
+	^ propertyMapping

@@ -2,12 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		"testAssociation" : "SvenVanCaekenberghe 6/12/2012 13:19",
+		"testAssociation" : "SebastianHeidbrink 07/23/2013 15:04",
 		"testBooleans" : "SvenVanCaekenberghe 6/3/2012 19:56",
 		"testByteArray" : "SvenVanCaekenberghe 6/8/2012 21:54",
-		"testDate" : "SvenVanCaekenberghe 6/12/2012 12:02",
+		"testDate" : "SebastianHeidbrink 07/04/2013 09:29",
 		"testDateAndTime" : "SvenVanCaekenberghe 6/12/2012 12:02",
-		"testFloats" : "SvenVanCaekenberghe 6/2/2012 22:24",
+		"testDictionary" : "SebastianHeidbrink 07/23/2013 15:01",
+		"testFloats" : "SebastianHeidbrink 08/05/2013 09:48",
 		"testIntegers" : "SvenVanCaekenberghe 6/2/2012 22:24",
 		"testLists" : "SvenVanCaekenberghe 6/3/2012 19:39",
 		"testMaps" : "SvenVanCaekenberghe 6/3/2012 19:40",
@@ -15,7 +16,7 @@
 		"testPoint" : "SvenVanCaekenberghe 6/12/2012 15:58",
 		"testPoint1" : "SvenVanCaekenberghe 6/8/2012 14:04",
 		"testPoint2" : "SvenVanCaekenberghe 6/6/2012 17:29",
-		"testPoint3" : "SvenVanCaekenberghe 6/8/2012 14:04",
+		"testPoint3" : "SebastianHeidbrink 07/04/2013 18:22",
 		"testStrings" : "SvenVanCaekenberghe 6/10/2012 21:15",
 		"testSymbol" : "SvenVanCaekenberghe 6/8/2012 21:56",
 		"testTime" : "SvenVanCaekenberghe 6/12/2012 12:02" } }

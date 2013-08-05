@@ -2,4 +2,4 @@ accessing
 mappingFor: schema
 	^ self 
 		mappingFor: schema 
-		ifAbsent: [ NeoJSONMappingNotFound signalFor: schema in: self ]
+		ifAbsent: [ NeoJSONMappingNotFound signalFor: schema]

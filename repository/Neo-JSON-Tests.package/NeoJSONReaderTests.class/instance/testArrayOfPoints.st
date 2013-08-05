@@ -4,7 +4,7 @@ testArrayOfPoints
 	reader := [ :string | 
 		(NeoJSONReader on: string readStream) 
 			for: Point do: [ :mapping |
-				mapping mapInstVars: #('x' 'y') ];
+				mapping mapInstVars: #(x y) ];
 			for: #ArrayOfPoints customDo: [ :mapping |
 				mapping listOfElementSchema: Point ];
 			nextAs: #ArrayOfPoints ].

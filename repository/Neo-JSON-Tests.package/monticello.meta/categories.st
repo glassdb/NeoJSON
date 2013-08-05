@@ -1,1 +1,1 @@
-SystemOrganization addCategory: 'Neo-JSON-Tests'!
+SystemOrganization addCategory: #'Neo-JSON-Tests'!

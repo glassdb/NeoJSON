@@ -7,5 +7,5 @@ testPropertyNamesAsSymbols
 		next.
 	self 
 		assert: map 
-		equals: (Dictionary new at: #'x' put: true; at: #'y' put: false; at: #'key-1' put: 1; yourself).
+		equals: (Dictionary new at: #x put: true; at: #y put: false; at: #'key-1' put: 1; yourself).
 	self assert: (map keys allSatisfy: [ :each | each isSymbol ])

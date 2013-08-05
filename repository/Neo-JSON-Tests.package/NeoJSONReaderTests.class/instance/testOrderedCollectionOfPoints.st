@@ -4,7 +4,7 @@ testOrderedCollectionOfPoints
 	reader := [ :string | 
 		(NeoJSONReader on: string readStream) 
 			for: Point do: [ :mapping |
-				mapping mapInstVars: #('x' 'y') ];
+				mapping mapInstVars: #(x y) ];
 			for: #OrderedCollectionOfPoints customDo: [ :mapping |
 				mapping listOfType: OrderedCollection andElementSchema: Point ];
 			nextAs: #OrderedCollectionOfPoints ].

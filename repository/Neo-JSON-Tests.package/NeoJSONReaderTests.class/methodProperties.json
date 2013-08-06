@@ -8,6 +8,7 @@
 		"testByteArray" : "SvenVanCaekenberghe 6/12/2012 12:32",
 		"testDate" : "SebastianHeidbrink 07/04/2013 10:52",
 		"testDateAndTime" : "SvenVanCaekenberghe 6/12/2012 12:02",
+		"testDictionary" : "SebastianHeidbrink 08/05/2013 12:05", 
 		"testFloats" : "SvenVanCaekenberghe 6/2/2012 21:49",
 		"testIntegers" : "SvenVanCaekenberghe 6/12/2012 16:08",
 		"testLists" : "SvenVanCaekenberghe 6/12/2012 16:16",
@@ -21,7 +22,6 @@
 		"testPoint2" : "SebastianHeidbrink 08/05/2013 09:01",
 		"testPoint3" : "SebastianHeidbrink 08/05/2013 08:15",
 		"testPropertyNamesAsSymbols" : "SebastianHeidbrink 08/05/2013 08:16",
-		"testSmallDictionary" : "SebastianHeidbrink 08/05/2013 08:17",
 		"testStrings" : "SvenVanCaekenberghe 6/12/2012 16:04",
 		"testSymbol" : "SvenVanCaekenberghe 6/12/2012 12:02",
 		"testTime" : "SvenVanCaekenberghe 6/12/2012 12:02" } }
